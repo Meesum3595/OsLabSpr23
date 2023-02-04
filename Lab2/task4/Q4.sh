@@ -1,3 +1,3 @@
-#1/bin/bash
+#!/bin/bash
 
-find /home/meesum/task4 2>/dev/null >> files.txt
+find /home/meesum/task3 2>/dev/null >> files.txt
