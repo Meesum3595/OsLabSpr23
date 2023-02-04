@@ -1,3 +1,0 @@
-/home/meesum/task4
-/home/meesum/task4/Q4.sh
-/home/meesum/task4/files.txt
